@@ -19,10 +19,13 @@ I used CuDNNLSTM for speed since LSTM was very slow for this dataset.
 
 Results:
 
+1:
+
 Up, up and away
 hey do you trust me do the wait
 think he ain't tell
 
+2:
 
 Be wary of any man that claims
 
