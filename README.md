@@ -18,14 +18,21 @@ I used CuDNNLSTM for speed since LSTM was very slow for this dataset.
   This method takes a random verse, number of words to generate and when to hit newline, in order to make it look like a song. The first step is to tokenize the input string and then make it fit in the max sequence verse that was created before. After this the next word gets predicted based on the average from the predicted array. The output word is found and stored after the same string, forming the song. 
 
 Results:
+
 Up, up and away
 hey do you trust me do the wait
 think he ain't tell
 
 Be wary of any man that claims
+
 flow with the boulevard lot of body
+
 won't craft my nc mane know thicker
+
 tellin' views hop credit diamonds juice happens
+
 glass backpack lately pregnant you've prayin' harder
+
 mos styles potential changed treasure to freakin'
+
 
